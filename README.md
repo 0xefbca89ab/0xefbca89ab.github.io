@@ -1,2 +1,3 @@
-# ij_audio
-存一下ao3用bgm。
+# ij_personal_web
+目前用于存储ao3用bgm。
+未来计划升级为个人网站，作为同人作品（或其索引）的存档展示。
